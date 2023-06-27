@@ -1,11 +1,19 @@
 d=52
 g=89
+<<<<<<< Updated upstream
 
 
 
 85656566
 8565656
+<<<<<<< Updated upstream
 
 
 
 88877
+=======
+=======
+jkghjgk
+jgjgj
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
